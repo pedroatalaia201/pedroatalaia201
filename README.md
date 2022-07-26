@@ -1,6 +1,6 @@
 # 💫About Me :
 Hi, I'm Pedro Lucas Atalaia, a backend developer. 
-I'm current working with Ruby on Rails at Agência W3.
+I'm current working with Ruby on Rails at <a href = 'https://fractaltecnologia.com.br' >Fractal</a>.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pedro-atalaia-058654210/) 
