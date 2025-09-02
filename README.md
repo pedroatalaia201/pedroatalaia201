@@ -1,22 +1,21 @@
-# 💫About Me :
-Hi, I'm Pedro Lucas Atalaia, a backend developer. 
-I'm current working with Ruby on Rails at <a href = 'https://fractaltecnologia.com.br' >Fractal</a>.
+# About Me:
+Hi, I'm Pedro Lucas Atalaia, a backend developer. <br/>
+I'm current working with Ruby on Rails at **[Fractal](https://fractaltecnologia.com.br)**.
+<br/><br/>
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pedro-atalaia-058654210/) 
+## 📬 Socials: 
+**[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/https://www.linkedin.com/in/pedro-atalaia-058654210/)**
+**[![Gmail](https://img.shields.io/badge/Gmail-fff.svg?logo=gmail&logoColor=CC342D&style=for-the-badge)](pedroatalaia3@gmail.com)**
+<br/><br/>
 
-# 💻Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=pedroatalaia201&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pedroatalaia201&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroatalaia201&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-<!--
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 💻 Tech Stack:
+![Ruby](https://img.shields.io/badge/ruby-CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)               ![Rails](https://img.shields.io/badge/rails-CC342D.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%239042f5.svg?style=for-the-badge&logo=C&logoColor=white)                    ![.Net](https://img.shields.io/badge/.NET-9042f5?style=for-the-badge&logo=.net&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%23316192.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<br/><br/>
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/> -->
-
----
-[![](https://visitcount.itsvg.in/api?id=pedroatalaia201&icon=2&color=0)](https://visitcount.itsvg.in)
+## 📊 GitHub Stats:
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroatalaia201&theme=nord&hide_border=true&include_all_commits=false&count_private=false&format=large&&layout=donut)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroatalaia201&theme=nord&hide_border=true&include_all_commits=true&count_private=last)<br/>
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=pedroatalaia201&theme=nord&hide_border=true&count_private=false)<br/>
+<br/><br/>
