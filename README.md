@@ -5,7 +5,6 @@ I'm current working with Ruby on Rails at **[Fractal](https://fractaltecnologia.
 
 ## 📬 Socials: 
 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/https://www.linkedin.com/in/pedro-atalaia-058654210/)**
-**[![Gmail](https://img.shields.io/badge/Gmail-fff.svg?logo=gmail&logoColor=CC342D&style=for-the-badge)](pedroatalaia3@gmail.com)**
 <br/><br/>
 
 ## 💻 Tech Stack:
