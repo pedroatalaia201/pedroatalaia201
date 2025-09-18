@@ -16,5 +16,5 @@ I'm current working with Ruby on Rails at **[Fractal](https://fractaltecnologia.
 ## 📊 GitHub Stats:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroatalaia201&theme=nord&hide_border=true&include_all_commits=false&count_private=false&format=large&&layout=donut)<br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroatalaia201&theme=nord&hide_border=true&include_all_commits=true&count_private=last)<br/>
-![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=pedroatalaia201&theme=nord&hide_border=true&count_private=false)<br/>
+<!-- ![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=pedroatalaia201&theme=nord&hide_border=true&count_private=false) -->
 <br/><br/>
